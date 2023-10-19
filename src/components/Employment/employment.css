@@ -1,0 +1,42 @@
+.employment__container {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 10px 20px;
+    border-radius: 7px;
+    border: 2px solid #059669;
+}
+
+.employment__title {
+height: 40px;
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: 30px;
+background-color: #059669;
+font-weight: 400;
+border-radius: 50px;
+margin-top: 15px;
+margin-bottom: 30px;
+}
+
+.job__container {
+display: flex;
+flex-direction: column;
+gap: 20px;
+}
+
+.job__container-inner h3 {
+background-color: #059669;
+font-size: 22px;
+border-radius: 30px;
+padding: 0.3rem 0.2rem;
+}
+
+.job__container-inner p {
+padding: 0 1rem;
+background-color: #059669;
+border-radius: 30px;
+max-width: 15rem;
+margin-left: 1rem;
+}
