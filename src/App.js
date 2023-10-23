@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './app.css';
+import './App.css';
 import {BsFillMoonStarsFill} from 'react-icons/bs';
 import {AiFillFacebook} from 'react-icons/ai';
 import avatar from './assets/avatar.jpg';
